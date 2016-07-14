@@ -1,0 +1,12 @@
+language: angularjs
+
+angularjs:
+  - 1.2.3
+
+env:
+  - XUNIT_FILE=shippable/testresults/result.xml
+
+build:
+  ci:
+    - npm install
+    - npm test
