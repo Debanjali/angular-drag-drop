@@ -9,4 +9,4 @@ env:
 build:
   ci:
     - npm install
-    - npm test
+    
