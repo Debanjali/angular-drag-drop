@@ -1,6 +1,6 @@
-language: angularjs
+language: angular_js
 
-angularjs:
+angular_js:
   - 1.2.3
 
 env:
