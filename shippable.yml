@@ -1,7 +1,7 @@
-language: angular_js
+language: node_js
 
-angular_js:
-  - 1.2.3
+node_js:
+  - 0.12
 
 env:
   - XUNIT_FILE=shippable/testresults/result.xml
